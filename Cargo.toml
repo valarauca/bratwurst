@@ -1,0 +1,8 @@
+[package]
+name = "bratwurst"
+version = "0.1.0"
+authors = ["Wlaeder"]
+
+[dependencies]
+clap = "2.20.5"
+brotli2 = { path = "brotli2-rs" }
